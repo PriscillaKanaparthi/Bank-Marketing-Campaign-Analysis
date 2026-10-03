@@ -182,7 +182,7 @@ Random split rather than a time split (results may look better than on a future 
 
 ```bash
 git clone https://github.com/PriscillaKanaparthi/Bank-Marketing-Campaign-Analysis.git
-cd <repo-name> && pip install -r requirements.txt
+cd Bank-Marketing-Campaign-Analysis && pip install -r requirements.txt
 jupyter notebook Portugese_Bank_marketing_Insights_and_strategy.ipynb
 ```
 
