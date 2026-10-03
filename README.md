@@ -188,4 +188,4 @@ jupyter notebook Portugese_Bank_marketing_Insights_and_strategy.ipynb
 
 **Tools:** Python · Pandas · Matplotlib · Seaborn · scikit-learn · imbalanced-learn · XGBoost
 **Data:** Moro, Cortez & Rita (2014), *A Data-Driven Approach to Predict the Success of Bank Telemarketing*, UCI Machine Learning Repository, "Bank Marketing".
-**Author:** [Your name] · [LinkedIn link] · [Email]
+**Author:** Priscilla K · https://www.linkedin.com/in/priscillachristy/· kanaparthipriscilla@gmail.com
