@@ -181,7 +181,7 @@ Random split rather than a time split (results may look better than on a future 
 | 📊 [Presentation](presentation/Bank_Marketing_Presentation.pptx) | 11-slide stakeholder summary |
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/PriscillaKanaparthi/Bank-Marketing-Campaign-Analysis.git
 cd <repo-name> && pip install -r requirements.txt
 jupyter notebook Portugese_Bank_marketing_Insights_and_strategy.ipynb
 ```
